@@ -1,3 +1,6 @@
 [submodule "src/_core-modules"]
 	path = src/_core-modules
 	url = https://github.com/kingcalkitchen/kingcal-kitchen-reactive-core.git
+[submodule "items-js-core"]
+	path = items-js-core
+	url = git@github.com:darkstar022801/items-js-core.git
